@@ -7,3 +7,4 @@ numpy==1.24.3
 tensorflow==2.6.0
 tensorflow==2.17.0
 tensorflow_intel==2.17.0
+gunicorn
